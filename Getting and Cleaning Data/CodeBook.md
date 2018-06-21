@@ -2,9 +2,9 @@ Getting and Cleaning Data Course Project
 
 1) Download & read all the files
 
-A full description of the data used in this project can be found at The UCI Machine Learning Repository
+A full description of the data used in this project can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The source data for this project can be found here.
+The source data for this project can be found at http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip.
 
 Data Set Information:
 
